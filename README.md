@@ -18,7 +18,8 @@
 
 7. ดาวน์โหลดโปรแกรมจัดการ FPS ที่ลิงก์นี้ https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html \
    โดยเลื่อนไปด้านล่างสุดจะเจอลิงก์ดาวน์โหลด
-   ![](https://i.imgur.com/MOAUY65.png)
+   ![image](https://github.com/meawmuay/yulgang-low-fps/assets/50597818/8d13775b-52ec-4754-9683-81bd7cec6338)
+
 
 8. หลังจากดาวน์โหลดแล้ว ติดตั้งให้เรียบร้อย หลังจากนั้น เปิดโปรแกรมที่ชื่อว่า RivaTuner Statistics Server \
    ![](https://i.imgur.com/mcLDGSt.png)
